@@ -1,5 +1,5 @@
 # 💡 About Me
-Hey there! I'm **Ahmed Badis Lakrach**.<br><br>💻 **Software Developer** | LLMOps · AI/ML · NLP · AWS<br><br>🎓 **M. Sc. Computer Science** | Intelligent Systems<br><br>🚀 **Projects:**<br>      · Marketplace Website<br>      · Chatbot for Dementia Detection<br>      · AI-Powered Research Data Analysis Framework<br>      · Domain-Specific Query Expansion with LLMs<br>      · World of Warcraft Addons & WeakAuras<br><br>🌍 **Languages:**<br>         Arabic      · French     · English     · German      · Japanese
+💻 **Software Developer** | LLMOps · AI/ML · NLP · AWS<br><br>🎓 **M. Sc. Computer Science** | Intelligent Systems<br><br>🚀 **Projects:**<br>      · Marketplace Website<br>      · Chatbot for Dementia Detection<br>      · AI-Powered Research Data Analysis Framework<br>      · Domain-Specific Query Expansion with LLMs<br>      · World of Warcraft Addons & WeakAuras<br><br>🌍 **Languages:**<br>         Arabic      · French     · English     · German      · Japanese
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AhmedBadis&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
