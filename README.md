@@ -1,5 +1,5 @@
 # 💡 About Me
-Hey there! I'm **Ahmed Badis Lakrach**.<br><br>💻 **Software Developer** | LLMOps · AI/ML · NLP · AWS<br><br>🎓 **M. Sc. Computer Science** | Intelligent Systems<br><br>🚀 **Projects:**<br>      - Marketplace Website<br>      - Chatbot for Dementia Detection<br>      - AI-Powered Research Data Analysis Framework<br>      - Domain-Specific Query Expansion with LLMs<br>      - World of Warcraft Addons & WeakAuras<br><br>🌍 **Languages:**<br>      - Arabic<br>      - French<br>      - English<br>      - German<br>      - Japanese
+Hey there! I'm **Ahmed Badis Lakrach**.<br><br>💻 **Software Developer** | LLMOps · AI/ML · NLP · AWS<br><br>🎓 **M. Sc. Computer Science** | Intelligent Systems<br><br>🚀 **Projects:**<br>      · Marketplace Website<br>      · Chatbot for Dementia Detection<br>      · AI-Powered Research Data Analysis Framework<br>      · Domain-Specific Query Expansion with LLMs<br>      · World of Warcraft Addons & WeakAuras<br><br>🌍 **Languages:**<br>         Arabic      · French     · English     · German      · Japanese
 
 
 ## 🌐 Socials:
@@ -12,13 +12,13 @@ Hey there! I'm **Ahmed Badis Lakrach**.<br><br>💻 **Software Developer** | LLM
 ![](https://nirzak-streak-stats.vercel.app/?user=AhmedBadis&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBadis&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AhmedBadis&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
+<!--## 🏆 GitHub Trophies-->
+<!--![](https://github-profile-trophy.vercel.app/?username=AhmedBadis&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)-->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<!--### ✍️ Random Dev Quote-->
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)-->
 
-### 🔝 Top Contributed Repo
+-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AhmedBadis&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
 ---
